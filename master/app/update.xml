@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>1.5</latestVersion>
-    <latestVersionCode>v1.5</latestVersionCode>
+    <latestVersionCode>10</latestVersionCode>
     <url>https://github.com/AryxDeNub/Animob/releases/</url>
   </update>
 </AppUpdater>
