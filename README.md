@@ -1,27 +1,23 @@
 <h1> Animob</h1>
-<img src="./Screenshots/AppFront.png" width=50 height=50/>
+<img src="./screenshots/AppFront.png" width=50 height=50/>
 <p> A dark-themed App for watching anime at the best quality.</p>
 <p>The episodes are directly scrapped an Anime website.</p>
 <p float="left">
 
-<img src="./Screenshots/EpisodeList.png"/>
-<img src="./Screenshots/AboutAnimob.png"/>
+<img src="./screenshots/EpisodeList.png"/>
+<img src="./screenshots/AboutAnimob.png"/>
 </p>
 <h2>Features</h2>
-<h3>Picture in Picture mode</h3>
-<img src="./Screenshots/pip.jpeg">
-<h3>Search Anime </h3>
-<img src="./Screenshots/search.jpeg">
-<h3> Check recent anime you have watched</h3>
-<img src="./Screenshots/recent.jpeg">
+<h3>Add to Favs</h3>
+<img src="./screenshots/AddToFav.png">
+<h3>Watch Anime & Reactions </h3>
+<img src="./screenshots/WatchRea.png">
+<h3> Watch Reactions & read Comments</h3>
+<img src="./screenshots/WatchAndReadComments.png">
 <h3>Anime List</h3>
-<p> Contains 6142 Anime</p>
+<p> Contains 6142 Anime (Updated on daily bases)</p>
 <p float="left">
-<img src="./Screenshots/animelist.jpeg">
-<img src="./Screenshots/animesearchlsit.jpeg">
-</p>
-<h2>Library used</h2>
-<p>Exoplayer- To show videos</p>
-<img src="./Screenshots/fight.jpeg"/>
-<p>Jsoup- for webscraping</p>
-<p>Picasso - for displaying images and caching</p>
+<img src="./screenshots/Anime.png">
+<img src="./screenshots/Options.png">
+<img src="./screenshots/icon.png"/>
+  </p>
