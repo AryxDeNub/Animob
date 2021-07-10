@@ -17,7 +17,8 @@
 <h3>Anime List</h3>
 <p> Contains 6142 Anime (Updated on daily bases)</p>
 <p float="left">
-<img src="./screenshots/Anime.png" width=30% height=30%/>
 <img src="./screenshots/Options.png" width=30% height=30%/>
 <img src="./screenshots/icon.png" width=30% height=30%/>
+  </br>
+  <img src="./screenshots/Anime.png" width=50% height=50%/>
   </p>
