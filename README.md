@@ -4,7 +4,7 @@
 <img src="./screenshots/animeMovies.png" width=30% height=30%/>
   </p>
 <p> A dark-themed App for watching anime at the best quality.</p>
-<p>The episodes are directly scrapped an Anime website.</p>
+<p>The episodes are directly scrapped from an Anime website.</p>
 <p float="left">
 
 <img src="./screenshots/EpisodeList.png" width=30% height=30%/>
