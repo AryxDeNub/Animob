@@ -3,5 +3,10 @@
     <latestVersion>1.5</latestVersion>
     <latestVersionCode>10</latestVersionCode>
     <url>https://github.com/AryxDeNub/Animob/releases/</url>
+     <releaseNotes>
+- Small bugs fixed
+- Video player fixed
+- UI upgraded
+    </releaseNotes>
   </update>
 </AppUpdater>
