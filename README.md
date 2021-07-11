@@ -13,10 +13,11 @@
 <h2>Features</h2>
 <h3>Add to Favs</h3>
 <img src="./screenshots/AddToFav.png" width=30% height=30%/>
-<h3>Watch Anime & Reactions </h3>
-<img src="./screenshots/WatchRea.png" width=30% height=30%/>
 <h3> Watch Reactions & read Comments</h3>
+<p float="left">
 <img src="./screenshots/WatchAndReadComments.png" width=30% height=30%/>
+<img src="./screenshots/WatchRea.png" width=30% height=30%/>
+  </p>
 <h3>Anime List</h3>
 <p> Contains 6142 Anime (Updated on daily bases)</p>
 <p float="left">
