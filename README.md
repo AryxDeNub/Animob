@@ -1,5 +1,6 @@
 <h1> Animob</h1>
 <img src="./screenshots/AppFront.png" width=30% height=30%/>
+<img src="./screenshots/animeMovies.png" width=30% height=30%/>
 <p> A dark-themed App for watching anime at the best quality.</p>
 <p>The episodes are directly scrapped an Anime website.</p>
 <p float="left">
